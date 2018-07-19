@@ -6,28 +6,28 @@
 
 
 ## *Major Projects*
+
+  - RAT-BOT
   
-   RAT-BOT
+  - MAKI
   
-   MAKI
-  
-   FlapJack
+  - FlapJack
    
-   Cozmo
+  - Cozmo
   
 # *Things I've Tinkered With*
 
-   Autonomous Spoon Feeder for Patients with Tremours
+   - Autonomous Spoon Feeder for Patients with Tremours
    
-   Design of Multistage Electron Microscope Adapter
+   - Design of Multistage Electron Microscope Adapter
    
-   Area Image Processing of Aneurysm Prevention Device
+   - Area Image Processing of Aneurysm Prevention Device
 
-   Voice Controlled Non-Hollonomic Bot
+   - Voice Controlled Non-Hollonomic Bot
   
-   Radioshack Decsion Maker
+   - Radioshack Decsion Maker
   
-   Google Voice
+   - Google Voice
   
 '## Publications'
 ### Header 3
