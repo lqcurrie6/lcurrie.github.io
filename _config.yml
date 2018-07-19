@@ -1,6 +1,2 @@
 theme: jekyll-theme-architect
-title: Welcome to my Website!
-@top-center {
-        background: ![Image](IMG_7921.jpg) no-repeat 0 0;
-        background-size: 10%;
-}
+title: Welcome!
