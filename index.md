@@ -11,7 +11,9 @@
   
    MAKI
   
-   FLAPJACK
+   FlapJack
+   
+   Cozmo
   
 # *Things I've Tinkered With*
 
@@ -27,7 +29,7 @@
   
    Google Voice
   
-## Header 2
+'## Publications'
 ### Header 3
 
 **Bold** and _Italic_ and `Code` text
