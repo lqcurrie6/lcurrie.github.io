@@ -29,7 +29,7 @@
   
    - Google Voice
   
-'## Publications'
+## Publications
 ### Header 3
 
 **Bold** and _Italic_ and `Code` text
