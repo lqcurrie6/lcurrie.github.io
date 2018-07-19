@@ -7,29 +7,30 @@
 
 ## *Major Projects*
   
-  ### RAT-BOT
+   RAT-BOT
   
-  #### MAKI
+   MAKI
   
-  ##### FLAPJACK
+   FLAPJACK
   
-##### *Things I've Tinkered With*
+# *Things I've Tinkered With*
 
-  ###### Voice Controlled Non-Hollonomic Bot
+   Autonomous Spoon Feeder for Patients with Tremours
+   
+   Design of Multistage Electron Microscope Adapter
+   
+   Area Image Processing of Aneurysm Prevention Device
+
+   Voice Controlled Non-Hollonomic Bot
   
-  ####### Radioshack Decsion Maker
+   Radioshack Decsion Maker
   
-  ######## Google Voice
+   Google Voice
+  
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](IMG_7921.jpg)
 
