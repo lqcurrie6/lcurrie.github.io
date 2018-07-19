@@ -1,5 +1,12 @@
 # *About Myself*
 
+@top-center {
+        background: ![Image](IMG_7921.jpg) no-repeat 0 0;
+        background-size: 10%;
+}
+
+
+
 - I am a Junior at George Mason University, studying Psychology with a concentration in Human Factors and Applied Cognition with a double minor in Neuroscience and Bioengineering.
 - I have an avid interest in Humanoid robotics, Cybernetics, and Human Computer Interfaces/Interaction.
 - I plan on using this site to publish material and images/posts and descriptions of the different projects that I've done/been involved with and am currently doing. 
@@ -34,5 +41,5 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](IMG_7921.jpg)
+[Link](url) and 
 
